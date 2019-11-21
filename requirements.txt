@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+pandas
+tqdm
+pyarrow
+matplotlib
+keras
+sklearn
+scikit-image
